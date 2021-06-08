@@ -1,2 +1,3 @@
 I'm trying git.
 I want to go into commit2.
+changed by me.
