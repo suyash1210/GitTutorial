@@ -1,1 +1,2 @@
-error.log
+*.log
+folder for gitignore usage checking\
