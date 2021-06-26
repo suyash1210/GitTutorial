@@ -1,3 +1,4 @@
 git diff compares staging area and working directory.
 git diff --staged compares last commit with current staging area.
 git commit -a -m "message"  directly commits all files which are tracked without requiring them to be staged.
+git rm --cached filename   untracks a file.
