@@ -1,3 +1,2 @@
-I'm trying git.
-I want to go into commit2.
-changed by me.
+git diff compares staging area and working directory.
+git diff --staged compares last commit with current staging area.
