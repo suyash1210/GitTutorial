@@ -2,3 +2,12 @@ git diff compares staging area and working directory.
 git diff --staged compares last commit with current staging area.
 git commit -a -m "message"  directly commits all files which are tracked without requiring them to be staged.
 git rm --cached filename   untracks a file.
+git log    opens whole history of commits.
+git log -p  shows all commits along with what work has been done in those commits.
+git log -p -3    shows 3 latest commits along with what work has been done in those commits.
+git log --stat  short me commit ke stats/short summary batata hai.
+git log --pretty=oneline   shows all commit in one line each.
+git log --pretty=short  short me commits dikhaata hai.
+git log --pretty=full   author and commitor ka naam bhi batata hai also commits dikhaata hai.
+git log --since=2.days  shows all commits of  last two days. (we can use wekks/months/years)
+
