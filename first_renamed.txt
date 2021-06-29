@@ -11,4 +11,5 @@ git log --pretty=short  short me commits dikhaata hai.
 git log --pretty=full   author and commitor ka naam bhi batata hai also commits dikhaata hai.
 git log --since=2.days  shows all commits of  last two days. (we can use wekks/months/years).
 git checkout -- filename   brings back file to its previous commit.
+git checkout -- f     brings back all files to its previous commit.
 
