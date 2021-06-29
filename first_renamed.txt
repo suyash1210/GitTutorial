@@ -9,5 +9,6 @@ git log --stat  short me commit ke stats/short summary batata hai.
 git log --pretty=oneline   shows all commit in one line each.
 git log --pretty=short  short me commits dikhaata hai.
 git log --pretty=full   author and commitor ka naam bhi batata hai also commits dikhaata hai.
-git log --since=2.days  shows all commits of  last two days. (we can use wekks/months/years)
+git log --since=2.days  shows all commits of  last two days. (we can use wekks/months/years).
+git checkout -- filename   brings back file to its previous commit.
 
